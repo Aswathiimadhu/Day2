@@ -1,0 +1,100 @@
+.kerala{
+    font-size: medium;
+    color: white;
+}
+.tvm
+{
+    background-image: url(images/tvm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .tvm1
+{
+    background-image: url(images/tvm\ napier.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.klm
+{
+    background-image: url(images/kollam.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.alap
+{
+    background-image: url(images/alapuzha.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.pta
+{
+    background-image: url(images/pta\ peru.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.ktym
+{
+    background-image: url(images/kotayam.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.ekm
+{
+    background-image: url(images/ernakulam.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.knr
+{
+    background-image: url(images/kannur\ 12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
